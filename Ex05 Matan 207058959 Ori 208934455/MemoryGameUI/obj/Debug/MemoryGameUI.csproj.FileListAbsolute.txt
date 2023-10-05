@@ -1,0 +1,38 @@
+C:\Users\matan\Desktop\C#\Exercises\ex05\C22 Ex05 Matan 207058959 Ori 208934455\MemoryGameUI\bin\Debug\MemoryGameUI.exe
+C:\Users\matan\Desktop\C#\Exercises\ex05\C22 Ex05 Matan 207058959 Ori 208934455\MemoryGameUI\bin\Debug\MemoryGameUI.pdb
+C:\Users\matan\Desktop\C#\Exercises\ex05\C22 Ex05 Matan 207058959 Ori 208934455\MemoryGameUI\obj\Debug\MemoryGameUI.csproj.AssemblyReference.cache
+C:\Users\matan\Desktop\C#\Exercises\ex05\C22 Ex05 Matan 207058959 Ori 208934455\MemoryGameUI\obj\Debug\MemoryGameUI.SettingsForm.resources
+C:\Users\matan\Desktop\C#\Exercises\ex05\C22 Ex05 Matan 207058959 Ori 208934455\MemoryGameUI\obj\Debug\MemoryGameUI.csproj.GenerateResource.cache
+C:\Users\matan\Desktop\C#\Exercises\ex05\C22 Ex05 Matan 207058959 Ori 208934455\MemoryGameUI\obj\Debug\MemoryGameUI.csproj.CoreCompileInputs.cache
+C:\Users\matan\Desktop\C#\Exercises\ex05\C22 Ex05 Matan 207058959 Ori 208934455\MemoryGameUI\obj\Debug\MemoryGameUI.exe
+C:\Users\matan\Desktop\C#\Exercises\ex05\C22 Ex05 Matan 207058959 Ori 208934455\MemoryGameUI\obj\Debug\MemoryGameUI.pdb
+C:\Users\matan\Desktop\C#\Exercises\ex05\C22 Ex05 Matan 207058959 Ori 208934455\MemoryGameUI\obj\Debug\MemoryGameUI.GameBoardForm.resources
+C:\Users\matan\Desktop\C#\Exercises\ex05\C22 Ex05 Matan 207058959 Ori 208934455\MemoryGameUI\bin\Debug\MemoryGameLogic.dll
+C:\Users\matan\Desktop\C#\Exercises\ex05\C22 Ex05 Matan 207058959 Ori 208934455\MemoryGameUI\bin\Debug\MemoryGameLogic.pdb
+C:\Users\matan\Desktop\C#\Exercises\ex05\C22 Ex05 Matan 207058959 Ori 208934455\MemoryGameUI\obj\Debug\MemoryGameUI.csproj.CopyComplete
+C:\Users\matan\Desktop\c#_ex05\MemoryGameUI\bin\Debug\MemoryGameUI.exe
+C:\Users\matan\Desktop\c#_ex05\MemoryGameUI\bin\Debug\MemoryGameLogic.dll
+C:\Users\matan\Desktop\c#_ex05\MemoryGameUI\bin\Debug\MemoryGameLogic.pdb
+C:\Users\matan\Desktop\c#_ex05\MemoryGameUI\obj\Debug\MemoryGameUI.csproj.AssemblyReference.cache
+C:\Users\matan\Desktop\c#_ex05\MemoryGameUI\obj\Debug\MemoryGameUI.GameForm.resources
+C:\Users\matan\Desktop\c#_ex05\MemoryGameUI\obj\Debug\MemoryGameUI.Properties.Resources.resources
+C:\Users\matan\Desktop\c#_ex05\MemoryGameUI\obj\Debug\MemoryGameUI.SettingsForm.resources
+C:\Users\matan\Desktop\c#_ex05\MemoryGameUI\obj\Debug\MemoryGameUI.csproj.GenerateResource.cache
+C:\Users\matan\Desktop\c#_ex05\MemoryGameUI\obj\Debug\MemoryGameUI.csproj.CoreCompileInputs.cache
+C:\Users\matan\Desktop\c#_ex05\MemoryGameUI\obj\Debug\MemoryGameUI.exe
+C:\Users\matan\Desktop\c#_ex05\MemoryGameUI\obj\Debug\MemoryGameUI.pdb
+C:\Users\matan\Desktop\c#_ex05\MemoryGameUI\bin\Debug\MemoryGameUI.pdb
+C:\Users\matan\Desktop\c#_ex05\MemoryGameUI\obj\Debug\MemoryGameUI.csproj.CopyComplete
+\\Mac\Home\Desktop\c#_ex05\MemoryGameUI\bin\Debug\MemoryGameUI.exe
+\\Mac\Home\Desktop\c#_ex05\MemoryGameUI\bin\Debug\MemoryGameUI.pdb
+\\Mac\Home\Desktop\c#_ex05\MemoryGameUI\bin\Debug\MemoryGameLogic.dll
+\\Mac\Home\Desktop\c#_ex05\MemoryGameUI\bin\Debug\MemoryGameLogic.pdb
+\\Mac\Home\Desktop\c#_ex05\MemoryGameUI\obj\Debug\MemoryGameUI.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\c#_ex05\MemoryGameUI\obj\Debug\MemoryGameUI.GameForm.resources
+\\Mac\Home\Desktop\c#_ex05\MemoryGameUI\obj\Debug\MemoryGameUI.Properties.Resources.resources
+\\Mac\Home\Desktop\c#_ex05\MemoryGameUI\obj\Debug\MemoryGameUI.SettingsForm.resources
+\\Mac\Home\Desktop\c#_ex05\MemoryGameUI\obj\Debug\MemoryGameUI.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\c#_ex05\MemoryGameUI\obj\Debug\MemoryGameUI.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\c#_ex05\MemoryGameUI\obj\Debug\MemoryGameUI.csproj.CopyComplete
+\\Mac\Home\Desktop\c#_ex05\MemoryGameUI\obj\Debug\MemoryGameUI.exe
+\\Mac\Home\Desktop\c#_ex05\MemoryGameUI\obj\Debug\MemoryGameUI.pdb

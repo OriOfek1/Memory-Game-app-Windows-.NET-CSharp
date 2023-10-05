@@ -1,0 +1,12 @@
+C:\Users\matan\Desktop\C#\Exercises\ex05\C22 Ex05 Matan 207058959 Ori 208934455\MemoryGameLogic\bin\Debug\MemoryGameLogic.dll
+C:\Users\matan\Desktop\C#\Exercises\ex05\C22 Ex05 Matan 207058959 Ori 208934455\MemoryGameLogic\bin\Debug\MemoryGameLogic.pdb
+C:\Users\matan\Desktop\C#\Exercises\ex05\C22 Ex05 Matan 207058959 Ori 208934455\MemoryGameLogic\obj\Debug\MemoryGameLogic.csproj.AssemblyReference.cache
+C:\Users\matan\Desktop\C#\Exercises\ex05\C22 Ex05 Matan 207058959 Ori 208934455\MemoryGameLogic\obj\Debug\MemoryGameLogic.csproj.CoreCompileInputs.cache
+C:\Users\matan\Desktop\C#\Exercises\ex05\C22 Ex05 Matan 207058959 Ori 208934455\MemoryGameLogic\obj\Debug\MemoryGameLogic.dll
+C:\Users\matan\Desktop\C#\Exercises\ex05\C22 Ex05 Matan 207058959 Ori 208934455\MemoryGameLogic\obj\Debug\MemoryGameLogic.pdb
+C:\Users\matan\Desktop\c#_ex05\MemoryGameLogic\bin\Debug\MemoryGameLogic.dll
+C:\Users\matan\Desktop\c#_ex05\MemoryGameLogic\bin\Debug\MemoryGameLogic.pdb
+C:\Users\matan\Desktop\c#_ex05\MemoryGameLogic\obj\Debug\MemoryGameLogic.csproj.AssemblyReference.cache
+C:\Users\matan\Desktop\c#_ex05\MemoryGameLogic\obj\Debug\MemoryGameLogic.csproj.CoreCompileInputs.cache
+C:\Users\matan\Desktop\c#_ex05\MemoryGameLogic\obj\Debug\MemoryGameLogic.dll
+C:\Users\matan\Desktop\c#_ex05\MemoryGameLogic\obj\Debug\MemoryGameLogic.pdb
